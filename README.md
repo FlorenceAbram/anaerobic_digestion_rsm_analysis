@@ -1,12 +1,12 @@
 # Anaerobic Digestion RSM Reanalysis
 
 Code and input data for the independent statistical reanalysis of the four
-response-surface models used in manuscript **CSCEE-D-26-00383**.
+response-surface models used in the manuscript of AD-Farm modelling 
 
 The four responses are coliforms, *E. coli*, enterococci and methane. The
 primary analysis is a transparent full-quadratic response-surface model fitted
 with base R `lm()` using explicit recipe contrasts. The models were written and
-fitted independently for this reanalysis; no earlier code, coefficients or
+fitted independently for this reanalysis; no earlier code, coefficients, or
 analytical implementation was reused.
 
 ## Contents
