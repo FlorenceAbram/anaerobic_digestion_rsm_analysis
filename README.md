@@ -1,4 +1,4 @@
-# Anaerobic Digestion RSM Reanalysis
+# Anaerobic Digestion RSM Analysis
 
 Code and input data for the independent statistical reanalysis of the four
 response-surface models used in the manuscript of AD-Farm modelling 
